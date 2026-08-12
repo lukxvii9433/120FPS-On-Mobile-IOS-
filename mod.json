@@ -1,0 +1,11 @@
+{
+  "geode": "5.9.0",
+  "version": "1.0.0",
+  "id": "lukxvii.120fpsunlock",
+  "name": "120 FPS Unlock",
+  "developer": "lukxvii9433",
+  "description": "Attempts to unlock Geometry Dash to 120 FPS on iOS.",
+  "gd": {
+    "ios": "2.2081"
+  }
+}
